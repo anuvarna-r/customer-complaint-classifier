@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.8513274336283185,
+  "macro_f1": 0.8417124384117718,
+  "baseline_accuracy": 0.45189058728881737,
+  "baseline_macro_f1": 0.12449714634011193,
+  "training_rows": 99440,
+  "testing_rows": 24860,
+  "random_state": 42,
+  "scikit_learn_version": "1.7.2"
+}
